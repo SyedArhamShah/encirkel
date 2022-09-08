@@ -32,6 +32,7 @@
     color: #59bb2b;
     font-size: 74px;
     font-weight: 700;
+   
 }
 .work{
     text-align: center;
@@ -54,19 +55,66 @@
     text-align: center;
 }
 .Div1{
-    /* width: fit-content; */
+  max-width:45% ;
+  min-width: 300px;
+  margin-left:50px ;
 }
 .caption{
-    width: fit-content;
+    width: 380px;
     padding-left: 20px;
 }
 video{
     padding-left: 20px;
+    width: 380px;
+   
 }
 .MainDiv{
     display: flex;
     flex-wrap: wrap;
+    margin-top: 100px;
 }
 .para{
     margin: 10px 10%;
+    width:fit-content ;
+   
+}
+.Div2{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 45%;
+   min-width: 300px; 
+    margin-left:50px ;
+
+
+}
+.problem{
+    color: #59bb2b;
+    font-size: 74px;
+}
+.solution{
+    color: #59bb2b;
+    font-size: 74px;
+    margin-top: 50px;
+}
+.para2{ 
+    width:fit-content ;
+   
+}
+.MainDiv2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Div3{
+    display: flex;
+    flex-wrap: wrap;
+    /* max-width: 45%;
+   min-width: 300px; 
+    margin-left:50px ; */
+
+}
+.offer{
+    color: #59bb2b;
+    font-size: 74px;
+    text-align: center;
 }
