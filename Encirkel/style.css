@@ -169,3 +169,44 @@ video{
     color: #59bb2b;
     
 }
+.first{
+    background-image: url(http://encirkel.com/wp-content/uploads/2022/03/LARGE-LOGO-GRAY.png);
+    background-position: 175px -231px;
+    background-repeat: no-repeat;
+    background-color:#e2f40f ;
+    background-image: linear-gradient(#59bb2b,green,lightgreen, ;);
+    height: 600px;
+    
+}
+.dg-holder{
+   max-width: 400px;
+    background-color:#e2f40f ;
+
+}
+.dg{
+    color: white;
+    margin-left: 5px;
+
+
+}
+.teamb{
+    background-image: linear-gradient(#59bb2b,lightgreen);
+    width: 100%;
+    height: 400px;
+    
+}
+.lastnote{
+    color: #ffff;
+   
+}
+.teama{
+    justify-content: center;
+    text-align: center;
+    display: block;
+    
+}
+.heading1{
+    color: white;
+    text-align: center;
+
+}
